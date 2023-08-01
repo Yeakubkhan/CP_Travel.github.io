@@ -41,4 +41,25 @@
     margin-left: 0px;
     margin-top: 45px;
   }
+
+  /*4 no section CSS*/
+
+  .section-d-a {
+    flex-direction: column;
+  }
+  .div-e {
+    height: auto;
+    width: 60%;
+    margin: 0% 3%;
+  }
+  .div-f {
+    height: auto;
+    width: 60%;
+    margin: 0% 3%;
+  }
+  .div-g {
+    height: auto;
+    width: 60%;
+    margin: 0% 3%;
+  }
 }
